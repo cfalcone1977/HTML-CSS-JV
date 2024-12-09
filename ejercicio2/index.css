@@ -1,0 +1,15 @@
+div{
+    background-color: antiquewhite;
+    border: black solid 5PX;
+    border-radius: 6PX;
+    padding: 0 0 0 20px;
+    margin: 30px;
+    width: 250px;
+}
+
+#resultado{
+    text-align: center;
+    margin: 0 auto;
+    color: red;
+    font-family: arial;
+}

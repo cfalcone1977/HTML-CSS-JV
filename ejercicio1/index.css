@@ -1,0 +1,13 @@
+#contador{
+    font-size: 50px;
+    margin: 0 0 0 100px;
+}
+
+.cajaBotones{
+   margin: 0 0 0 60px;
+   padding: 0 0 0 40px;
+   height: 100PX;
+   width: 100px;
+   background-color: antiquewhite;
+   align-content: center;
+}
